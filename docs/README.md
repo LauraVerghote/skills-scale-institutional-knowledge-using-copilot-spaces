@@ -149,3 +149,4 @@ New team members should:
 - [Risk Management & Communication](octoacme-risks-and-communication.md) - Managing risks and stakeholder communication
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) - Learning and improving
 - [Roles and Personas](octoacme-roles-and-personas.md) - Detailed role descriptions
+- [Role Collaboration Guide](octoacme-role-collaboration-guide.md) - Handoffs, interaction matrix, and onboarding checklists
