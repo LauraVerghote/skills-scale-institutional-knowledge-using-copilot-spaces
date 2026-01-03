@@ -260,3 +260,6 @@ QA/Testing professionals validate quality through automated and manual testing, 
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
 
+## Additional Resources
+For detailed information on role collaboration, handoffs, and onboarding checklists, see the [Role Collaboration Guide](octoacme-role-collaboration-guide.md).
+
