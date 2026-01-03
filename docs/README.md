@@ -75,10 +75,11 @@ _See [octoacme-roles-and-personas.md](octoacme-roles-and-personas.md) for detail
 Communication is structured to surface progress and blockers efficiently while keeping all parties informed:
 
 ### **Regular Synchronization**
-- **Daily standups**: Quick team alignment on progress, plans, and blockers
-- **Weekly syncs**: PM and Product Manager alignment on priorities and risks
-- **Twice-weekly standups**: Delivery team coordination (or as agreed by the team)
+- **Daily standups**: Quick team alignment (15 min) on progress, plans, and blockers during active execution
+- **Weekly syncs**: PM and Product Manager alignment on priorities and risks; delivery team progress reviews
 - **Monthly stakeholder updates**: High-level progress and milestone tracking
+
+_Note: Standup frequency can be adjusted based on team needs and project phase (e.g., twice-weekly or as agreed)._
 
 ### **Milestone-Based Communication**
 - **Project kickoff meetings**: Align team and stakeholders on goals and approach
